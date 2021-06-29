@@ -1,0 +1,2 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+BuildingEscape.uproject filter=lfs diff=lfs merge=lfs -text
